@@ -1,3 +1,4 @@
+/* Homepage */
 .jumbotron {
   background: url("../img/resortchair.jpg") no-repeat center center;
   height: 1100px;
@@ -12,3 +13,41 @@
 .jumbotron p {
   color: #E6DDC8;
 }
+
+/* Accomodations */
+.accomodations {
+  background-image: url("http://more-sky.com/data/out/12/IMG_581198.jpg");
+
+}
+
+
+
+.card-group {
+  margin-top: 100px
+}
+
+
+/* Activities */
+.pictures {
+  margin-top: 100px;
+  width: 1300px;
+}
+
+
+/* booking */
+
+.booking{
+  margin-top: 50px;
+}
+
+.bookradio{
+  margin-top: 50px;
+}
+
+.bookbutton{
+  margin-top: 50px;
+}
+
+
+
+/* pictures */
