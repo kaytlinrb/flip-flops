@@ -1,0 +1,14 @@
+.jumbotron {
+  background: url("../img/resortchair.jpg") no-repeat center center;
+  height: 1100px;
+  margin-top: 20px;
+}
+
+.jumbotron h1 {
+  font-family: Pacifico, sans-serif;
+  color: #E6DDC8;
+}
+
+.jumbotron p {
+  color: #E6DDC8;
+}
